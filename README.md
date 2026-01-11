@@ -1,13 +1,12 @@
 <div align="center">
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Press+Start+2P&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80"
-      alt="odytr"
-    />
-  </a>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Jersey+10&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80&pause=10000&repeat=true"
+    alt="odytr"
+  />
 </div>
+
 
   
   <a href="https://git.io/typing-svg">
@@ -65,27 +64,13 @@
 ### Stats
 
 <div align="center">
-  
-  <a href="https://github.com/odytr">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=odytr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odytr&theme=radical&hide_border=true&layout=compact" />
-  </a>
-  
-  <br/>
-  
-  <img src="https://nirzak-streak-stats.vercel.app/?user=odytr&theme=radical&hide_border=true&hide_dates=true" />
-
-</div>
-
----
-
-### Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=odytr&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=odytr&theme=radical&hide_border=true&show_icons=true" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=odytr&theme=radical&hide_border=true&layout=compact" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=odytr&icon=5&color=2" />
+  <img src="https://streak-stats.demolab.com?user=odytr&theme=radical&hide_border=true&hide_dates=true" />
 </div>
+
