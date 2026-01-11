@@ -1,27 +1,20 @@
 <div align="center">
 
-<div align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Rubik+Glitch&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80"
-      alt="odytr"
-    />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Rubik+Glitch&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80" alt="odytr" />
   </a>
-</div>
 
-  
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity;CTF+Player;SOC+Analyst;Network+Defender;Blue+Team;DFIR;&font=Fira%20Code&center=true&width=500&height=50&color=33cc33&vCenter=true&size=25" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <b>Security</b> • <b>Networking</b> • <b>Blue Team</b> • <b>SOC</b>  
+    <b>Security</b> • <b>Networking</b> • <b>Blue Team</b> • <b>SOC</b>   
   </p>
 
-<p align="center">
+  <p align="center">
   I break it to learn it. Currently focused on Blue Team operations, Security labs, and CTFs.
-</p>
-
+  </p>
   
   <p align="center">
     <a href="https://discord.gg/odytr">
@@ -42,7 +35,6 @@
 ### 💻 Tech
 
 <div align="center">
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -71,7 +63,7 @@
   
   <br/>
   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=odytr&theme=radical&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=odytr&theme=radical&hide_border=true&hide_dates=true" />
 
 </div>
 
@@ -87,7 +79,3 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=odytr&icon=5&color=2" />
 </div>
-
-
-
-
