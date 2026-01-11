@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=DEBUG&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80"
+      src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Press+Start+2P&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80"
       alt="odytr"
     />
   </a>
