@@ -60,7 +60,7 @@
 </div>
 
 ---
-
+<!--
 ### Stats
 
 <div align="center">
@@ -92,3 +92,4 @@
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=odytr&icon=5&color=2" />
 </div>
+-->
