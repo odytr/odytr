@@ -18,7 +18,7 @@
   </p>
 
 <p align="center">
-  I break it to learn it. Currently focused on Blue Team operations, Security labs, and CTFs.
+  I break it to learn it. Currently focused on Blue Team operations, Cloud, Security labs, and CTFs.
 </p>
   
   <p align="center">
