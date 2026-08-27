@@ -1,96 +1,60 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Jersey+10&center=true&width=600&height=110&color=F5F5F5&vCenter=true&size=80&pause=10000&repeat=true" alt="odytr" />
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=odytr&font=Jersey+10&center=true&width=600&height=100&color=F5F5F5&vCenter=true&size=80&pause=10000&repeat=true"
+    alt="odytr"
+  />
+</div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity;CTF+Player;SOC+Analyst;Network+Defender;Blue+Team;DFIR&font=Fira+Code&center=true&width=500&height=45&color=33cc33&vCenter=true&size=24&pause=1000" alt="Cybersecurity · CTF Player · SOC Analyst · Network Defender · Blue Team · DFIR" />
-</a>
 
-<p>
-  <code>Security</code>&nbsp;&nbsp;<code>Networking</code>&nbsp;&nbsp;<code>Blue&nbsp;Team</code>&nbsp;&nbsp;<code>SOC</code>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Cybersecurity;CTF+Player;SOC+Analyst;Network+Defender;Blue+Team;DFIR;&font=Fira%20Code&center=true&width=500&height=50&color=33cc33&vCenter=true&size=25" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>Security</b> • <b>Networking</b> • <b>Blue Team</b> • <b>SOC</b>   
+  </p>
+
+<p align="center">
+  I break it to learn it. Currently focused on Blue Team operations, Cloud, Security labs, and CTFs.
 </p>
-
-<p>
-  <a href="https://discord.gg/odytr"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=33cc33&labelColor=0d1117" alt="Discord" /></a>
-  <a href="https://linkedin.com/in/odytr"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=33cc33&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@odytr"><img src="https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=33cc33&labelColor=0d1117" alt="Medium" /></a>
-</p>
+  
+  <p align="center">
+    <a href="https://discord.gg/odytr">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/odytr">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@odytr">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    </a>
+  </p>
 
 </div>
 
-```console
-$ whoami
-odytr — I break it to learn it.
+---
 
-$ cat focus.txt
-Blue Team operations · Cloud security · Home lab · CTFs
-```
-
-
-<br>
-
-## Tech Stack
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=33cc33&labelColor=0d1117)
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=33cc33&labelColor=0d1117)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=33cc33&labelColor=0d1117)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=33cc33&labelColor=0d1117)
-![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=33cc33&labelColor=0d1117)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-0d1117?style=for-the-badge&logo=elasticstack&logoColor=33cc33&labelColor=0d1117)
-![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logo=wazuh&logoColor=33cc33&labelColor=0d1117)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=33cc33&labelColor=0d1117)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=33cc33&labelColor=0d1117)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=33cc33&labelColor=0d1117)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=33cc33&labelColor=0d1117)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=33cc33&labelColor=0d1117)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=33cc33&labelColor=0d1117)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=33cc33&labelColor=0d1117)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=33cc33&labelColor=0d1117)
-
-<br>
-
-## Certifications
-<p>
-  <img src="https://img.shields.io/badge/BTL1-0d1117?style=for-the-badge&logo=securityscorecard&logoColor=33cc33&labelColor=0d1117" alt="BTL1" />
-  <img src="https://img.shields.io/badge/eJPT-0d1117?style=for-the-badge&logo=hackaday&logoColor=33cc33&labelColor=0d1117" alt="eJPT" />
-  <img src="https://img.shields.io/badge/CEH-0d1117?style=for-the-badge&logo=hackthebox&logoColor=33cc33&labelColor=0d1117" alt="CEH" />
-  <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=33cc33&labelColor=0d1117" alt="AWS Certified Cloud Practitioner" />
-</p>
-
-<br>
-
-## Labs
-
-<!-- 
-<p>
-  <a href="https://tryhackme.com/p/odytr"><img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=33cc33&labelColor=0d1117" alt="TryHackMe" /></a>
-  <a href="https://app.hackthebox.com/profile"><img src="https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=33cc33&labelColor=0d1117" alt="Hack The Box" /></a>
-  <a href="https://letsdefend.io"><img src="https://img.shields.io/badge/LetsDefend-0d1117?style=for-the-badge&logo=shield&logoColor=33cc33&labelColor=0d1117" alt="LetsDefend" /></a>
-</p>
--->
-
-- **Home lab** — Wazuh + Elastic on Proxmox, Windows AD domain, pfSense edge, deliberately broken hosts
-
-<br>
-
-## GitHub
+### Tech Stack
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=odytr&show_icons=true&hide_border=true&bg_color=0d1117&title_color=33cc33&icon_color=33cc33&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odytr&layout=compact&hide_border=true&bg_color=0d1117&title_color=33cc33&text_color=c9d1d9&langs_count=8" alt="top languages" />
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00B0F0?style=for-the-badge&logo=wazuh&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=odytr&bg_color=0d1117&color=c9d1d9&line=33cc33&point=f5f5f5&area=true&hide_border=true" alt="activity graph" />
-
-</div>
-
-<br>
-
-## Writing
-
-I document labs, detections and CTF walkthroughs on [Medium](https://medium.com/@odytr).
-
-<div align="center">
-<br>
-<sub><code>Detection is a practice.</code></sub>
+![Metasploit](https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+  
 </div>
